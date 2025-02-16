@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Kirill "n1ddyDEV"</h3>
+<h3 align="center">My name is Kirill! </h3>
 
 ###
 

@@ -1,10 +1,3 @@
-<h1 align="left">Sup!</h1>
-
-###
-
-<h3 align="center">My name is Kirill! </h3>
-
-###
 
 <h2 align="left">About me</h2>
 

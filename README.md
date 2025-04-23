@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">Education:<br><br>Bachelors degree ("Information systems and technologies", field of EP: "Fullstack development", 2026, RTU MIREA)<br><br>Additional education:<br>Devops, 2026</h3>
+<h3 align="left">Education:<br><br>Bachelors degree ("Information systems and technologies", field of EP: "Fullstack development", 2026)<br><br>Additional education:<br>Devops, 2026</h3>
 
 ###
 
